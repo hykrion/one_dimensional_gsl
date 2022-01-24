@@ -38,4 +38,4 @@ If you just want to use the program you can use it with this two files:
 The parameters and their meanings are in: *headers/ui_parameters.h* and/or *gui-gsl.tcl*. The names should be self explanatory. As this's a rough test may be some parameters are not used, as UI_PARAM_DE...
 
 # Just the program
-If you just want to test the program, don't want to install MSYS2 nor GSL, nor Tcl... here your are the exe (build in debug) and the necessary dlls **barebone**
+If you just want to test the program, don't want to install MSYS2 nor GSL, nor Tcl... here your are the exe (built in debug) and the necessary dlls **barebone**
