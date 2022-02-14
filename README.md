@@ -41,4 +41,4 @@ The parameters and their meanings are in: *headers/ui_parameters.h* and/or *gui-
 If you just want to test the program, don't want to install MSYS2 nor GSL, nor Tcl... here your are the exe (built in debug) and the necessary dlls **barebone**
 
 # Documentation
-For  more information you can consult the pdf's in the *doc* folder (English version is just an automatic translation)
+For  more information you can consult the pdf in the *doc* folder (English version is just an automatic translation)
